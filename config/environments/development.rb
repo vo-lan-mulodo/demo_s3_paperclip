@@ -42,8 +42,8 @@ Rails.application.configure do
   :path => '/:class/:attachment/:id_partition/:style/:filename',
   :s3_credentials => {
   :bucket => 'demos3paperclip',
-  :access_key_id => 'AKIAJBKNCI2BIZW4EQUQ',
-  :secret_access_key =>'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',
+  :access_key_id => 'yy-iio',
+  :secret_access_key =>'xx-yyy-mmm',
   #:region =>'ap-southeast-1',
   #:s3_endpoint => 's3-ap-southeast-1.amazonaws.com' 
   }
